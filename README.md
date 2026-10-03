@@ -52,7 +52,7 @@
 
 ## Wallets
 
-[Huallet](https://github.com/ChihuahuaChain/huallet) (extension and Android), Keplr and Leap. Deposits are signed on Osmosis (gas in OSMO), bets and withdrawals on Chihuahua (gas in HUAHUA, about 12 HUAHUA per bet).
+[Huallet](https://github.com/ChihuahuaChain/huallet) (browser extension) and Keplr. Deposits are signed on Osmosis (gas in OSMO), bets and withdrawals on Chihuahua (gas in HUAHUA, about 12 HUAHUA per bet).
 
 ## The contract
 
